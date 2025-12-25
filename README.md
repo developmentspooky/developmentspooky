@@ -1,18 +1,18 @@
-# Hey, ich bin Spooky aka Ahmed 👋
+# Hey, I’m Spooky aka Ahmed👋
 
-Ich bin ein **Web- & Server-Entwickler mit Fokus auf FiveM**.
-Ich baue performante, saubere und skalierbare Systeme – von modernen Webinterfaces bis hin zu komplexen Game-Server-Backends.
+I’m a **Web & Server Developer with a strong focus on FiveM**.
+I build performant, clean, and scalable systems — from modern web interfaces to complex game server backends.
 
-Wenn mir eine Idee kommt, setze ich sie um 🚀
+If an idea comes to mind, I build it 🚀
 
 ---
 
-## 🧠 Über mich
+## 🧠 About Me
 
-* 💻 Schwerpunkt: **FiveM Development (Server & Scripts)**
-* 🌐 Webentwicklung für Dashboards, Admin-Panels & APIs
-* ⚙️ Fokus auf Performance, saubere Architektur & Skalierbarkeit
-* 🛠️ Erfahrung mit Fullstack- & Game-Server-Umgebungen
+* 💻 Focus: **FiveM Development (Server & Scripts)**
+* 🌐 Web development for dashboards, admin panels & APIs
+* ⚙️ Strong focus on performance, clean architecture & scalability
+* 🛠️ Experience with fullstack & game server environments
 
 ---
 
@@ -20,82 +20,83 @@ Wenn mir eine Idee kommt, setze ich sie um 🚀
 
 ### 🔧 Server Development
 
-* ESX / QBCore / Standalone Scripts
-* Server-Performance & Optimierung
-* Ressourcen-Management
-* Event- & Callback-Systeme
-* Client ↔ Server Kommunikation
+* ESX / QBCore / Standalone scripts
+* Server performance & optimization
+* Resource management
+* Event & callback systems
+* Client ↔ Server communication
 
 ### 📜 Script Development
 
-* Lua (Client & Server)
-* Modularer & wartbarer Code
-* Anti-Cheat Grundlagen
-* Datenbank-Integration
-* Custom Jobs, UI-Systeme & Gameplay-Features
+* Lua (client & server)
+* Modular & maintainable code
+* Anti-cheat fundamentals
+* Database integration
+* Custom jobs, UI systems & gameplay features
 
-### 🗄️ Datenbanken
+### 🗄️ Databases
 
 * MySQL / MariaDB
-* Async & Sync Queries
-* Performance-optimierte Datenstrukturen
+* Async & sync queries
+* Performance-optimized data structures
 
 ---
 
 ## 🌐 Web / Frontend
 
-* **React / Next.js** (Experte)
-* **TypeScript** (Experte)
-* **Tailwind CSS** (Experte)
-* **Framer Motion** (Fortgeschritten)
+* **React / Next.js** (Expert)
+* **TypeScript** (Expert)
+* **Tailwind CSS** (Expert)
+* **Framer Motion** (Advanced)
 
-➡️ Moderne Dashboards, Admin-Panels & Web-UIs für FiveM
+➡️ Modern dashboards, admin panels & web UIs for FiveM
 
 ---
 
 ## 🎨 Design
 
-* UI / UX Design (Fortgeschritten)
-* Figma (Fortgeschritten)
-* Motion Design (Mittel)
-* 3D / Three.js (Mittel)
+* UI / UX Design (Advanced)
+* Figma (Advanced)
+* Motion Design (Intermediate)
+* 3D / Three.js (Intermediate)
 
 ---
 
 ## ⚙️ Backend
 
-* Node.js (Fortgeschritten)
-* REST / GraphQL APIs (Fortgeschritten)
-* PostgreSQL (Mittel)
-* Prisma ORM (Fortgeschritten)
+* Node.js (Advanced)
+* REST / GraphQL APIs (Advanced)
+* PostgreSQL (Intermediate)
+* Prisma ORM (Advanced)
 
 ---
 
 ## 🧰 Tools
 
-* Git / GitHub (Experte)
-* VS Code (Experte)
-* Vercel (Fortgeschritten)
-* Docker (Mittel)
+* Git / GitHub (Expert)
+* VS Code (Expert)
+* Vercel (Advanced)
+* Docker (Intermediate)
 
 ---
 
-## 📌 Aktuell
+## 📌 Currently Working On
 
-* FiveM Server-Systeme
-* Web-Dashboards für Serververwaltung
-* Performance-Optimierung & saubere Codebases
+* FiveM server systems
+* Web dashboards for server management
+* Performance optimization & clean codebases
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
 > GitHub: **@developmentspooky**
 
-
 ---
 
-⭐ Wenn dir meine Projekte gefallen, lass gerne einen Star da!
+⭐ If you like my projects, feel free to leave a star!
+
+
 
 
 <!--

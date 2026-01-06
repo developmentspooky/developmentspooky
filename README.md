@@ -2,7 +2,7 @@
 <div align="center">
   
 <!-- Animated Name with Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey%2C+ich+bin+Ahmed;Welcome+to+my+Profile;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey%2C+i+am+Ahmed;Welcome+to+my+Profile;)](https://git.io/typing-svg)
 
 <!-- Animated Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
